@@ -22,7 +22,7 @@ title: Blanktix's Blog
 email: lutfi.rahmawan1999@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ini adalah sebuah blog yang berisi tentang tulisan dan portfolio dari Muhammad Lutfi Rahmawan (blanktix).
-baseurl: "/blanktix.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blanktix.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blanktix_
 github_username:  blanktix
