@@ -27,6 +27,8 @@ url: "https://blanktix.github.io" # the base hostname & protocol for your site, 
 twitter_username: blanktix_
 github_username:  blanktix
 
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+
 # Build settings
 theme: jekyll-theme-clean-blog
 plugins:
