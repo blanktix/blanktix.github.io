@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Assalamu'alaikum Warahmatullahi Wabarakatuh
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Nama saya Muhammad Lutfi Rahmawan. Seorang mahasiswa yang berkuliah di prodi Informatika. Saya senang mempelajari hal baru di bidang pemrograman, keamanan jaringan, dan kecerdasan buatan.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Aktivitas saya terkait pemrograman bisa dilihat pada [repository github saya](https://github.com/blanktix). Di samping itu saya juga senang bermain CTF untuk mengasah skill di bidang keamanan jaringan yang bisa kalian jumpai di [ctftime](https://ctftime.org/team/146369).
