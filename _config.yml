@@ -29,7 +29,7 @@ twitter_username: blanktix_
 github_username:  blanktix
 
 # remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
-# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Build settings
 theme: jekyll-theme-clean-blog
