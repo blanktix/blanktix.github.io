@@ -32,7 +32,7 @@ github_username:  blanktix
 # remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Build settings
-# theme: jekyll-theme-clean-blog
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
   - jekyll-paginate
