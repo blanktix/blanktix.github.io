@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-01T15:30:07+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blanktix’s Blog</title><subtitle>Ini adalah sebuah blog yang berisi tentang tulisan dan portfolio dari Muhammad Lutfi Rahmawan (blanktix).</subtitle><author><name>Blanktix</name></author><entry><title type="html">Solver-Password In Haystack</title><link href="http://localhost:4000/jekyll/update/2021/11/30/Password-In-Haystack.html" rel="alternate" type="text/html" title="Solver-Password In Haystack" /><published>2021-11-30T00:00:00+07:00</published><updated>2021-11-30T00:00:00+07:00</updated><id>http://localhost:4000/jekyll/update/2021/11/30/Password%20In%20Haystack</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/11/30/Password-In-Haystack.html">&lt;p&gt;Ini merupakan challange CTF McAfee ATR Hax 2021 dengan kategori forensik yang berjudul &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Password in Haystack&lt;/code&gt;&lt;/strong&gt;. Kita disediakan sebuah &lt;a href=&quot;https://github.com/advanced-threat-research/ATR_HAX_CTF/tree/master/forensics/password_in_a_haystack/challenge&quot;&gt;file teks&lt;/a&gt; yang berisi ribuan string password dan kita diminta untuk mencari password yang memenuhi beberapa kriteria antara lain:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="4.2.1">Jekyll</generator>
+<link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+<updated>2021-12-01T15:53:36+07:00</updated>
+<id>http://localhost:4000/</id>
+<subtitle>Ini adalah sebuah blog yang berisi tentang tulisan dan portfolio dari Muhammad Lutfi Rahmawan (blanktix).</subtitle>
+<author>
+<name>Blanktix</name>
+</author>
+<entry>
+<title>Solver-Password In Haystack</title>
+<link href="http://localhost:4000/jekyll/update/2021/11/30/Password-In-Haystack.html" rel="alternate" type="text/html" title="Solver-Password In Haystack" />
+<published>2021-11-30T00:00:00+07:00</published>
+<updated>2021-11-30T00:00:00+07:00</updated>
+<id>http://localhost:4000/jekyll/update/2021/11/30/Password In Haystack</id>
+<content type="html" xml:base="http://localhost:4000/jekyll/update/2021/11/30/Password-In-Haystack.html">&lt;p&gt;Ini merupakan challange CTF McAfee ATR Hax 2021 dengan kategori forensik yang berjudul &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Password in Haystack&lt;/code&gt;&lt;/strong&gt;. Kita disediakan sebuah &lt;a href=&quot;https://github.com/advanced-threat-research/ATR_HAX_CTF/tree/master/forensics/password_in_a_haystack/challenge&quot;&gt;file teks&lt;/a&gt; yang berisi ribuan string password dan kita diminta untuk mencari password yang memenuhi beberapa kriteria antara lain:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Setiap password harus merupakan karakter sepanjang 6-12 karakter yang &lt;em&gt;printable&lt;/em&gt;&lt;/li&gt;
@@ -44,4 +61,8 @@
         &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r3&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
             &lt;span class=&quot;n&quot;&gt;res3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pwd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;res1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;intersection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;res2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;intersection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;res3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Blanktix</name></author><category term="jekyll" /><category term="update" /><summary type="html">Ini merupakan challange CTF McAfee ATR Hax 2021 dengan kategori forensik yang berjudul Password in Haystack. Kita disediakan sebuah file teks yang berisi ribuan string password dan kita diminta untuk mencari password yang memenuhi beberapa kriteria antara lain:</summary></entry></feed>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+<summary>Ini merupakan challange CTF McAfee ATR Hax 2021 dengan kategori forensik yang berjudul Password in Haystack. Kita disediakan sebuah file teks yang berisi ribuan string password dan kita diminta untuk mencari password yang memenuhi beberapa kriteria antara lain:</summary>
+</entry>
+</feed>
